@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  SpaceSoldierApp
+
+  Created by Cuc Kim on 10/30/18.
+  Copyright © 2018 Cuc Kim. All rights reserved.
+*/
+"no-records" = "報告書がありません";
+"no-comments" = "コメントがありません";
+"delete-confirm-title" = "確認";
+"delete-confirm-message" = "これを削除してもよろしいですか？";
+"delete-confirm-ok" = "はい";
+"delete-confirm-cancel" = "いいえ";
+"all-records" = "全ての報告書";
+"unconfirmed" = "未承認";
+"confirmed" = "承認済み";
+"add-record-title" = "新規報告書";
+"edit-record-title" = "編集";

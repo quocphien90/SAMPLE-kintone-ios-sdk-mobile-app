@@ -1,0 +1,11 @@
+/* Class = "UIButton"; normalTitle = "All Status"; ObjectID = "0QB-4i-Rnb"; */
+"0QB-4i-Rnb.normalTitle" = "全ての報告書";
+
+/* Class = "UIButton"; normalTitle = "Unconfirmed"; ObjectID = "Dmk-h8-3ZZ"; */
+"Dmk-h8-3ZZ.normalTitle" = "未承認";
+
+/* Class = "UIButton"; normalTitle = "Confirmed"; ObjectID = "jPi-9m-sLJ"; */
+"jPi-9m-sLJ.normalTitle" = "承認済み";
+
+/* Class = "UINavigationItem"; title = "Status"; ObjectID = "mby-AI-79m"; */
+"mby-AI-79m.title" = "ステータス";

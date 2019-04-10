@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="ema-ya-1oU">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Status Popup Controller-->
+        <scene sceneID="3hz-pU-Zzk">
+            <objects>
+                <viewController id="ema-ya-1oU" customClass="StatusPopupController" customModule="SpaceSoldierApp" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" clipsSubviews="YES" contentMode="scaleToFill" id="5n7-5F-h9j">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="JyB-c1-ccG">
+                                <rect key="frame" x="87" y="120" width="201" height="150"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="leading" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jPi-9m-sLJ" customClass="RadioButton" customModule="SpaceSoldierApp" customModuleProvider="target">
+                                        <rect key="frame" x="24" y="80" width="160" height="30"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <state key="normal" title="Confirmed">
+                                            <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
+                                        </state>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Dmk-h8-3ZZ" customClass="RadioButton" customModule="SpaceSoldierApp" customModuleProvider="target">
+                                        <rect key="frame" x="24" y="108" width="160" height="30"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <state key="normal" title="Unconfirmed">
+                                            <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
+                                        </state>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0QB-4i-Rnb" customClass="RadioButton" customModule="SpaceSoldierApp" customModuleProvider="target">
+                                        <rect key="frame" x="24" y="52" width="160" height="30"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <state key="normal" title="All Reports">
+                                            <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
+                                        </state>
+                                    </button>
+                                    <navigationBar clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="zaz-s2-N0r">
+                                        <rect key="frame" x="0.0" y="0.0" width="201" height="44"/>
+                                        <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                        <items>
+                                            <navigationItem title="Status" id="mby-AI-79m"/>
+                                        </items>
+                                    </navigationBar>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="150" id="LhU-Qp-KSL"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="0.47303082191780821" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="RqX-hM-i7H" firstAttribute="trailing" secondItem="JyB-c1-ccG" secondAttribute="trailing" constant="87" id="Nsz-5w-Xiw"/>
+                            <constraint firstItem="JyB-c1-ccG" firstAttribute="top" secondItem="RqX-hM-i7H" secondAttribute="top" constant="100" id="PWR-Ty-4DK"/>
+                            <constraint firstItem="JyB-c1-ccG" firstAttribute="leading" secondItem="RqX-hM-i7H" secondAttribute="leading" constant="87" id="zju-Hb-lfo"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="RqX-hM-i7H"/>
+                    </view>
+                    <connections>
+                        <outlet property="popupView" destination="JyB-c1-ccG" id="BN3-68-Xk3"/>
+                        <outletCollection property="radioButtons" destination="jPi-9m-sLJ" collectionClass="NSMutableArray" id="FGp-FW-uPi"/>
+                        <outletCollection property="radioButtons" destination="Dmk-h8-3ZZ" collectionClass="NSMutableArray" id="V0I-tK-G7C"/>
+                        <outletCollection property="radioButtons" destination="0QB-4i-Rnb" collectionClass="NSMutableArray" id="OFr-2R-BbG"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Lrs-NM-ECC" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2284" y="-427.73613193403304"/>
+        </scene>
+    </scenes>
+</document>

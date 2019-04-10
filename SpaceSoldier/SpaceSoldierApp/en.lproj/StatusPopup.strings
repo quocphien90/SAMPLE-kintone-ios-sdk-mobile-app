@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "All Status"; ObjectID = "0QB-4i-Rnb"; */
+"0QB-4i-Rnb.normalTitle" = "All Status";
+
+/* Class = "UILabel"; text = "Record List Status"; ObjectID = "9US-aQ-as8"; */
+"9US-aQ-as8.text" = "Record List Status";
+
+/* Class = "UIButton"; normalTitle = "Unconfirmed"; ObjectID = "Dmk-h8-3ZZ"; */
+"Dmk-h8-3ZZ.normalTitle" = "Unconfirmed";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "QIh-u2-JdW"; */
+"QIh-u2-JdW.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "Confirmed"; ObjectID = "jPi-9m-sLJ"; */
+"jPi-9m-sLJ.normalTitle" = "Confirmed";

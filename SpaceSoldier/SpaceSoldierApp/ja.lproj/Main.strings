@@ -1,0 +1,193 @@
+/* Class = "UIButton"; normalTitle = "x"; ObjectID = "0DM-26-geZ"; */
+"0DM-26-geZ.normalTitle" = "x";
+
+/* Class = "UILabel"; text = "Notes"; ObjectID = "0WF-Mf-vaj"; */
+"0WF-Mf-vaj.text" = "作業状況";
+
+/* Class = "UITextView"; text = "AAAAAAASS"; ObjectID = "3NH-eO-OxW"; */
+"3NH-eO-OxW.text" = "AAAAAAASS";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "3Tz-5r-Tz2"; */
+"3Tz-5r-Tz2.normalTitle" = "保存";
+
+/* Class = "UIButton"; normalTitle = "Record List"; ObjectID = "4se-qe-G4h"; */
+"4se-qe-G4h.normalTitle" = "全ての報告書";
+
+/* Class = "UIButton"; normalTitle = "Attachment"; ObjectID = "4vY-EU-rGe"; */
+"4vY-EU-rGe.normalTitle" = "添付";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "7hN-Fb-DGp"; */
+"7hN-Fb-DGp.title" = "概要";
+
+/* Class = "UITextField"; placeholder = "Subdomain.cybozu.com"; ObjectID = "7SS-IY-Zi5"; */
+"7SS-IY-Zi5.placeholder" = "Subdomain.cybozu.com";
+
+/* Class = "UITextField"; placeholder = "App ID"; ObjectID = "789-VL-W4l"; */
+"789-VL-W4l.placeholder" = "アプリID";
+
+/* Class = "UILabel"; text = "Creator"; ObjectID = "A4Y-SS-sjh"; */
+"A4Y-SS-sjh.text" = "報告者";
+
+/* Class = "UILabel"; text = "Photo"; ObjectID = "aHP-dL-ekQ"; */
+"aHP-dL-ekQ.text" = "現場写真";
+
+"SzN-K3-v2f.text" = "現場写真";
+
+"Eze-yC-Olx.text" = "概要";
+
+"zhy-Oc-lzX.text" = "作業日";
+
+"BqU-a7-Wfl.text" = "報告者";
+
+"lep-b7-MvL.text" = "作業状況";
+
+"rqn-kh-Kx6.text" = "ステータス";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "AwW-RL-lUs"; */
+"AwW-RL-lUs.normalTitle" = "ログアウト";
+
+/* Class = "UILabel"; text = "Photos"; ObjectID = "azJ-Z1-Tp0"; */
+"azJ-Z1-Tp0.text" = "現場写真";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "B2j-7t-8V2"; */
+"B2j-7t-8V2.text" = "概要";
+
+/* Class = "UITextView"; text = "ÂBBCCĐ"; ObjectID = "b9M-iZ-9JO"; */
+"b9M-iZ-9JO.text" = "ÂBBCCĐ";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "bl1-kl-YMW"; */
+"bl1-kl-YMW.normalTitle" = "戻る";
+
+/* Class = "UITextField"; placeholder = "Login Name"; ObjectID = "Cmk-gc-K0a"; */
+"Cmk-gc-K0a.placeholder" = "ログイン名	";
+
+/* Class = "UILabel"; text = "@Jiro"; ObjectID = "CQy-gi-s7v"; */
+"CQy-gi-s7v.text" = "@Jiro";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "cRF-Gx-1CD"; */
+"cRF-Gx-1CD.text" = "概要";
+
+/* Class = "UILabel"; text = "Note"; ObjectID = "csf-3i-cy3"; */
+"csf-3i-cy3.text" = "作業状況";
+
+/* Class = "UILabel"; text = "Created datetime"; ObjectID = "cXJ-0a-P5W"; */
+"cXJ-0a-P5W.text" = "作業日";
+
+/* Class = "UILabel"; text = "Reply"; ObjectID = "d72-VB-YlW"; */
+"d72-VB-YlW.text" = "返信";
+
+/* Class = "UILabel"; text = "@Taro"; ObjectID = "dPj-Bl-ahg"; */
+"dPj-Bl-ahg.text" = "@Taro";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "DqR-S0-YNv"; */
+"DqR-S0-YNv.normalTitle" = "編集";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "duB-AE-QUn"; */
+"duB-AE-QUn.placeholder" = "パスワード";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "eTz-nb-zZE"; */
+"eTz-nb-zZE.text" = "4";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fiO-lA-Gj4"; */
+"fiO-lA-Gj4.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Post comment"; ObjectID = "ICU-gE-trA"; */
+"ICU-gE-trA.normalTitle" = "書き込む";
+
+/* Class = "UILabel"; text = "Dec 8, 2018 10:01"; ObjectID = "iiE-hh-j7k"; */
+"iiE-hh-j7k.text" = "Dec 8, 2018 10:01";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "jiC-Ni-J6p"; */
+"jiC-Ni-J6p.text" = "4";
+
+/* Class = "UILabel"; text = "login"; ObjectID = "kId-3s-ly8"; */
+"kId-3s-ly8.text" = "ログイン";
+
+/* Class = "UINavigationItem"; title = "CAT"; ObjectID = "LeI-38-6iM"; */
+"LeI-38-6iM.title" = "CAT";
+
+/* Class = "UILabel"; text = "Billy Jophnson"; ObjectID = "MeT-ii-hAQ"; */
+"MeT-ii-hAQ.text" = "Billy Jophnson";
+
+/* Class = "UILabel"; text = "Creator"; ObjectID = "MSe-lQ-wC1"; */
+"MSe-lQ-wC1.text" = "報告者";
+
+/* Class = "UISegmentedControl"; nGA-Sr-K8C.segmentTitles[0] = "Data"; ObjectID = "nGA-Sr-K8C"; */
+"nGA-Sr-K8C.segmentTitles[0]" = "報告内容";
+
+/* Class = "UISegmentedControl"; nGA-Sr-K8C.segmentTitles[1] = "Comment"; ObjectID = "nGA-Sr-K8C"; */
+"nGA-Sr-K8C.segmentTitles[1]" = "コメント";
+
+/* Class = "UINavigationItem"; title = "Edit"; ObjectID = "o9h-0q-rs6"; */
+"o9h-0q-rs6.title" = "編集";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "P5J-6b-r1q"; */
+"P5J-6b-r1q.normalTitle" = "削除";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "PHA-nk-pok"; */
+"PHA-nk-pok.normalTitle" = "新規作成";
+
+/* Class = "UILabel"; text = "Taro"; ObjectID = "qDa-Jw-pkr"; */
+"qDa-Jw-pkr.text" = "Taro";
+
+/* Class = "UILabel"; text = "Enter your subdomain name, login name "; ObjectID = "qgg-RJ-eYT"; */
+"qgg-RJ-eYT.text" = "登録したいkintoneアプリのドメイン、ログイン名、";
+
+/* Class = "UILabel"; text = "Dec 8, 2018 10:15"; ObjectID = "QjT-DT-Koj"; */
+"QjT-DT-Koj.text" = "Dec 8, 2018 10:15";
+
+/* Class = "UILabel"; text = "Image.png"; ObjectID = "QSV-rc-vdq"; */
+"QSV-rc-vdq.text" = "Image.png";
+
+/* Class = "UILabel"; text = " and password, App ID."; ObjectID = "R3R-Xb-Dgg"; */
+"R3R-Xb-Dgg.text" = "パスワード、アプリIDを入力して下さい。";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Rj5-1x-lxU"; */
+"Rj5-1x-lxU.normalTitle" = "ログイン";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "sdI-mL-haj"; */
+"sdI-mL-haj.text" = "概要";
+
+/* Class = "UILabel"; text = "CAT"; ObjectID = "TfQ-MW-9bg"; */
+"TfQ-MW-9bg.text" = "CAT";
+
+/* Class = "UIButton"; normalTitle = "Add Comment"; ObjectID = "TjG-Dv-Sqk"; */
+"TjG-Dv-Sqk.normalTitle" = "コメント追加";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "TpB-uB-8Vq"; */
+"TpB-uB-8Vq.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "Created Datetime"; ObjectID = "tQp-A3-8Zi"; */
+"tQp-A3-8Zi.text" = "作業日";
+
+/* Class = "UILabel"; text = "Notes"; ObjectID = "Ugv-Dt-qoo"; */
+"Ugv-Dt-qoo.text" = "作業状況";
+
+/* Class = "UILabel"; text = "Dec 8, 2018 10:15"; ObjectID = "vbt-a3-VND"; */
+"vbt-a3-VND.text" = "Dec 8, 2018 10:15";
+
+/* Class = "UILabel"; text = "CAT"; ObjectID = "vDU-03-yZ8"; */
+"vDU-03-yZ8.text" = "CAT";
+
+/* Class = "UISegmentedControl"; vOI-OR-96g.segmentTitles[0] = "Data"; ObjectID = "vOI-OR-96g"; */
+"vOI-OR-96g.segmentTitles[0]" = "報告内容
+
+";
+
+/* Class = "UISegmentedControl"; vOI-OR-96g.segmentTitles[1] = "Comment"; ObjectID = "vOI-OR-96g"; */
+"vOI-OR-96g.segmentTitles[1]" = "コメント";
+
+/* Class = "UIButton"; normalTitle = "Reply"; ObjectID = "wIU-yI-Ild"; */
+"wIU-yI-Ild.normalTitle" = "返信";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "xWm-0b-3xI"; */
+"xWm-0b-3xI.normalTitle" = "キャンセル";
+
+/* Class = "UIButton"; normalTitle = "Save Comment"; ObjectID = "xyM-w6-4VK"; */
+"xyM-w6-4VK.normalTitle" = "書き込む	";
+
+/* Class = "UILabel"; text = "10 MB"; ObjectID = "ZrY-dm-IQv"; */
+"ZrY-dm-IQv.text" = "10 MB";
+
+/* Class = "UIViewController"; Message = "Title"; ObjectID = "7hN-Fb-DGp"; */
+"Wga-1M-mg8.text" = "添付写真がありません";

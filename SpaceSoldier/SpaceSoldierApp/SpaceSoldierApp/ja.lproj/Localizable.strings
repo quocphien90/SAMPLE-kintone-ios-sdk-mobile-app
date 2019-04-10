@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  SpaceSoldierApp
+
+  Created by Cuc Kim on 10/30/18.
+  Copyright © 2018 Cuc Kim. All rights reserved.
+*/
+"no-records" = "レコードなし";
+"no-comments" = "コメントなし";
