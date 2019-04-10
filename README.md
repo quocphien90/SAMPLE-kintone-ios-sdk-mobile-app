@@ -18,7 +18,7 @@
 * Create kintone App and Form with fileds as below.
   
     * Form Design
-     ![overview image](./screenshots/FormSetting.PNG?raw=true)
+     ![overview image](./Screenshots/FormSetting.PNG?raw=true)
     * Field Settings
     
         |Name|Field Code| 
@@ -39,12 +39,12 @@ $ git clone https://github.com/kintone/SAMPLE-kintone-ios-sdk-mobile-app.git
 3. Open with Xcode
 
 * In Xcode, select File > Open. Then choose cloned SAMPLE-kintone-ios-sdk-mobile-app. \
-![overview image](./screenshots/open_source.PNG?raw=true)
+![overview image](./Screenshots/open_source.PNG?raw=true)
 
 4. Run The App
 
 * In Xcode, click run icon to start app in simulator. \
-![overview image](./screenshots/run_app.PNG?raw=true)
+![overview image](./Screenshots/run_app.PNG?raw=true)
 
 ## Features
  * Using Password Authentication to connect with kintone
@@ -60,17 +60,17 @@ $ git clone https://github.com/kintone/SAMPLE-kintone-ios-sdk-mobile-app.git
 * About The App Pages 
 
     * Login Page \
-     ![overview image](./screenshots/LoginView.png?raw=true)
+     ![overview image](./Screenshots/LoginView.png?raw=true)
     * Record List Page \
-     ![overview image](./screenshots/RecordList.png?raw=true)
+     ![overview image](./Screenshots/RecordList.png?raw=true)
     * Record Detail Page \
-     ![overview image](./screenshots/RecordDetail.png?raw=true)
+     ![overview image](./Screenshots/RecordDetail.png?raw=true)
     * Record Comment Page \
-     ![overview image](./screenshots/RecordComment.png?raw=true)
+     ![overview image](./Screenshots/RecordComment.png?raw=true)
     * Edit Record Page \
-     ![overview image](./screenshots/RecordEdit.png?raw=true)
+     ![overview image](./Screenshots/RecordEdit.png?raw=true)
     * Add Record Page \
-     ![overview image](./screenshots/RecordAdd.png?raw=true)
+     ![overview image](./Screenshots/RecordAdd.png?raw=true)
 
 ## Libraries used and their documentation
 
