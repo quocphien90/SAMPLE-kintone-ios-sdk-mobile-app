@@ -19,7 +19,7 @@
     * Form Design \
      ![overview image](./Screenshots/FormSetting.png?raw=true)
 
-    * Field Settings \
+    * Field Settings 
     
         |Name|Field Code| 
         | :- | :- |
