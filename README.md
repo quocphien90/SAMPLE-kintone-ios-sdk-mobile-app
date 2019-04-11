@@ -17,7 +17,7 @@
 * Create kintone App and Form with fileds as below.
   
     * Form Design
-     ![overview image](./Screenshots/FormSetting.PNG?raw=true)
+     ![overview image](./Screenshots/FormSetting.png?raw=true)
     * Field Settings
     
         |Name|Field Code| 
