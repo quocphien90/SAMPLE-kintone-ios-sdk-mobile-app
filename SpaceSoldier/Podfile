@@ -8,5 +8,5 @@ target 'SpaceSoldierApp' do
   # Pods for SpaceSoldierApp
   pod 'kintone-ios-sdk'
   pod 'CryptoSwift'
-  pod 'PromisesSwift'	
+  pod 'PromisesSwift', '~> 1.2.7'		
 end
