@@ -4,12 +4,11 @@
 * With kintone-ios-sdk, you can develop iOS-specific apps for kintone.
 * Specifically, you can view records, add record, edit record, delete record, write record's comment, etc. of the kintone app.
 
-## Requirement
-        
-* [kintone-ios-sdk v0.2.0](https://github.com/kintone/kintone-ios-sdk)
-* Xcode: minimum 9.4
-* iOS Devices : 
-* Minimum iOS Version : 11.4 or above
+## Requirements
+
+* Xcode 9 or newer
+* Supported Devices: iPhone 6 or newer
+* iOS 11.4 or newer
 
 ## Usage
 
@@ -36,21 +35,35 @@
 $ git clone https://github.com/kintone/SAMPLE-kintone-ios-sdk-mobile-app.git
 ```
 
-3. Open with Xcode
+3. Recheck the Podfile
 
-* In Xcode, select File > Open. Then choose cloned SAMPLE-kintone-ios-sdk-mobile-app. \
-![overview image](./Screenshots/open_source.PNG?raw=true)
+        target 'SpaceSoldierApp' do
+            pod 'kintone-ios-sdk'
+            pod 'CryptoSwift'
+            pod 'PromisesSwift', '~> 1.2.7'	
+        end
+
+* Install those dependency packages
+
+        pod install
+
+3. Open the workspace of application
+
+* In Xcode, select File > Open. Then choose cloned SAMPLE-kintone-ios-sdk-mobile-app. 
+
+![xcode settings](./Screenshots/XcodeSettings.png?raw=true)
 
 4. Run The App
 
-* In Xcode, click run icon to start app in simulator. \
-![overview image](./Screenshots/run_app.PNG?raw=true)
+* In Xcode, click run icon to start app in simulator. 
+
+![overview image](./Screenshots/XcodeView.png?raw=true)
 
 ## Features
  * Using Password Authentication to connect with kintone
- * Be able to import client certificate file to authenticate
+ * Be able to import client certificate file to authenticate.
  * View all records.
- * Create new record.
+ * Create a new record.
  * View/Edit/Delete specific record.
  * Take photo and Upload images from mobile application to kintone.
  * Comment/Reply or Delete a comment belong to a record.
