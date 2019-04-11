@@ -16,9 +16,10 @@
 
 * Create kintone App and Form with fileds as below.
   
-    * Form Design
+    * Form Design \
      ![overview image](./Screenshots/FormSetting.png?raw=true)
-    * Field Settings
+
+    * Field Settings \
     
         |Name|Field Code| 
         | :- | :- |
@@ -47,13 +48,13 @@ $ git clone https://github.com/kintone/SAMPLE-kintone-ios-sdk-mobile-app.git
 
         pod install
 
-3. Open the workspace of application
+4. Open the workspace of application
 
 * In Xcode, select File > Open. Then choose cloned SAMPLE-kintone-ios-sdk-mobile-app. 
 
 ![xcode settings](./Screenshots/XcodeSettings.png?raw=true)
 
-4. Run The App
+5. Run The App
 
 * In Xcode, click run icon to start app in simulator. 
 
